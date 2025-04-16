@@ -17,7 +17,7 @@ A simple web app using Flask and Redis inside Docker that counts how many times 
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ahmed-wa7eed/-Creating-A-Python-Flask-Web-Application-With-A-Redis-Database.git
 cd your-repo-name
 ```
 ### 2. Start the App with Docker Compose
